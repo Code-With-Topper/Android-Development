@@ -68,17 +68,6 @@ Current practice folders:
 - The code is intended for learning Android concepts, so some examples may be simplified.
 - Use each folder as a reference or copy files into a new project for testing.
 
-## Git commands
-
-After making changes, use these commands:
-
-```bash
-git status
-git add .
-git commit -m "Update Android practicals or add new exercise"
-git push origin main
-```
-
 ## Contribution
 
 If you want to add new exercises or improve existing examples:
